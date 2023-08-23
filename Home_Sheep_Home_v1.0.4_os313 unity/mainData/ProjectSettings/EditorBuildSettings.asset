@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/MainMenu.unity
+    guid: 6a1782a10a7933d40ac5ac66585a2d58
+  - enabled: 1
+    path: Assets/Levels/PickALevel.unity
+    guid: 453d6217c7c76bc40bc5d8bbaa5ebd1b
+  - enabled: 1
+    path: Assets/Levels/Level01.unity
+    guid: 7e3d11902cd3f8f46bc7c34608d5f5a6
+  - enabled: 1
+    path: Assets/Levels/Level02.unity
+    guid: ff2e61b0f496e4e4ab0dfde480593d33
+  - enabled: 1
+    path: Assets/Levels/Level03.unity
+    guid: 129b877b0b951f149929e52fc78369c8
+  - enabled: 1
+    path: Assets/Levels/Level04.unity
+    guid: f8bfde9e1a84647478ee8e595b4f3462
+  - enabled: 1
+    path: Assets/Levels/Level05.unity
+    guid: cf8870a1ddcbdd04a8c98a60ffdeddb9
+  - enabled: 1
+    path: Assets/Levels/Level06.unity
+    guid: 261efc23f3b009c47862bedc16366cb3
+  - enabled: 1
+    path: Assets/Levels/Level07.unity
+    guid: cb0089ff10df1fd41b9a337a5593aaef
+  - enabled: 1
+    path: Assets/Levels/Level08.unity
+    guid: aafc0aa1d808f5743a887d9508897239
+  - enabled: 1
+    path: Assets/Levels/Level09.unity
+    guid: 75ffa44c83735354db0b43f464a56697
+  - enabled: 1
+    path: Assets/Levels/Level10.unity
+    guid: 63fea333f8ee62a4e928fbfa6617e011
+  - enabled: 1
+    path: Assets/Levels/Level11.unity
+    guid: 5aa2593cb9e333645b0f7f84cc587341
+  - enabled: 1
+    path: Assets/Levels/Level12.unity
+    guid: 244a95393cd3518489b6da610bc0387c
+  - enabled: 1
+    path: Assets/Levels/Level13.unity
+    guid: 3a2a525e121dc414d9877ac4e8dff55f
+  - enabled: 1
+    path: Assets/Levels/Level14.unity
+    guid: 8a14b02058054914fb8d511542045618
+  - enabled: 1
+    path: Assets/Levels/Level15.unity
+    guid: a2ad989f4fcf7b642be90dcfbedc7f56
+  - enabled: 1
+    path: Assets/Levels/Level16.unity
+    guid: 85d04889e9dddb943b6c213a740e5f85
+  - enabled: 1
+    path: Assets/Levels/Level17.unity
+    guid: 5f11607c6864944439d64fe3af56075e
+  - enabled: 1
+    path: Assets/Levels/Level18.unity
+    guid: 6847290315e14674896678d498de18e6
+  - enabled: 1
+    path: Assets/Levels/Level19.unity
+    guid: cf1b6c846b436884a9537acf5a0616f6
+  - enabled: 1
+    path: Assets/Levels/Level20.unity
+    guid: cd87412784aa75a4e96af62784a72157
+  - enabled: 1
+    path: Assets/Levels/WinScreen.unity
+    guid: f9709f7787669df4bba38d0367c2d9ef
