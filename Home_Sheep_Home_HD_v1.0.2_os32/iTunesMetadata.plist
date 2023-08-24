@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+	</dict>
+	<key>accountHash</key>
+	<string>7246573d9fd37cde95269bd137a3a43d</string>
+	<key>appleId</key>
+	<string>teiron@25pp.com</string>
+	<key>artistId</key>
+	<integer>290623727</integer>
+	<key>artistName</key>
+	<string>Virtual Programming Ltd</string>
+	<key>bundleVersion</key>
+	<string>1.0.2</string>
+	<key>copyright</key>
+	<string>© and ™ Aardman 2011 and © Virtual Programming Ltd</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>genre</key>
+	<string>游戏</string>
+	<key>genreId</key>
+	<integer>6014</integer>
+	<key>itemId</key>
+	<integer>463901341</integer>
+	<key>itemName</key>
+	<string>Home Sheep Home HD</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistArtistName</key>
+	<string>Virtual Programming Ltd</string>
+	<key>playlistName</key>
+	<string>Home Sheep Home HD</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<date>2009-08-26T19:12:18Z</date>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string></string>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2011-09-22T00:18:34Z</string>
+	<key>s</key>
+	<integer>143465</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a143.phobos.apple.com/us/r1000/082/Purple/fe/a9/eb/mzi.dwpvzxlj.png</string>
+	<key>softwareIconNeedsShine</key>
+	<true/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>9</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.vpltd.HomeSheepHomeHD</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>4808192</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>4134121</integer>
+		<integer>4684573</integer>
+		<integer>4808192</integer>
+	</array>
+	<key>sourceHash</key>
+	<string>50a73d641cdc4285d34f970f900b52c3</string>
+	<key>subgenres</key>
+	<array>
+		<dict>
+			<key>genre</key>
+			<string>智力游戏</string>
+			<key>genreId</key>
+			<integer>7012</integer>
+		</dict>
+		<dict>
+			<key>genre</key>
+			<string>家庭游戏</string>
+			<key>genreId</key>
+			<integer>7009</integer>
+		</dict>
+	</array>
+	<key>vendorId</key>
+	<integer>20820</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>
